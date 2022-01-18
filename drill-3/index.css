@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header{
+    background-color: lightgrey;
+    height: 15vh;
+    display: flex;
+    margin-top: 30px;
+}
+
+.logo{
+    background-color: blue;
+  margin: 35px;
+  padding: 20px;
+  height: 8vh;
+  width: 8vh;
+}
+
+.col1{
+   margin:80px;
+}
+
+.col2{
+    height: 20vh;
+    background-color: #6699CC;
+}
+
+.col3{
+    height: 20vh;
+    background-color: #7FFFD4;
+}
+
+.col4{
+    height: 20vh;
+    background-color: #8FBC8B;
+}
+
+.col5{
+    height: 20vh;
+    background-color: #FFD700;
+    margin-bottom: 30px;
+}
